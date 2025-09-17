@@ -78,11 +78,6 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
   <img src="https://github-profile-trophy.vercel.app/?username=NayyabMalik&theme=radical&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
-<!-- Replace the activity graph with these stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=radical&count_private=true" alt="Nayyab's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayyabMalik&theme=radical" alt="Nayyab's GitHub Streak" />
-</p>
 
 ## 🚀 My Projects
 
