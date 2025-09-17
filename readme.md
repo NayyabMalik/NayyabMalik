@@ -81,11 +81,13 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 
 ## 🚀 My Projects
 
-Explore my repositories to see my work in AI, machine learning, and data analysis. Here are some highlights:
+Explore my repositories to see my work in AI, machine learning, and data analysis.
 
-[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=NayyabMalik&repo=your-repo-name&theme=radical)](https://github.com/NayyabMalik/your-repo-name](https://github.com/NayyabMalik?tab=repositories))
-
-
+<p align="center">
+  <a href="https://github.com/NayyabMalik?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects"/>
+  </a>
+</p>
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i> 🚀
