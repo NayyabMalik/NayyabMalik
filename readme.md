@@ -62,10 +62,10 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 
 | Certification | Issuing Organization | Date |
 |--------------|---------------------|------|
-| What is Generative AI | LinkedIn | 2024 |
-| Machine Learning with Python | Coursera | 2024 |
-| AI Mentorship Program | Nobel Global Foundation & Million Women Mentors | 2024 |
-| National Talent Olympiad Test | Nobel Testing & Processing Agency | 2024 |
+| What is Generative AI | LinkedIn | 
+| Machine Learning with Python | Coursera | 
+| AI Mentorship Program | Nobel Global Foundation & Million Women Mentors |
+| National Talent Olympiad Test | Nobel Testing & Processing Agency |
 
 ## 🌍 Languages
 
@@ -78,20 +78,19 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
   <img src="https://github-profile-trophy.vercel.app/?username=NayyabMalik&theme=radical&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
+<!-- Replace the activity graph with these stats -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NayyabMalik&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=radical&count_private=true" alt="Nayyab's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayyabMalik&theme=radical" alt="Nayyab's GitHub Streak" />
 </p>
 
 ## 🚀 My Projects
 
 Explore my repositories to see my work in AI, machine learning, and data analysis. Here are some highlights:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayyabMalik&repo=your-repo-name&theme=radical)](https://github.com/NayyabMalik/your-repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NayyabMalik&repo=your-repo-name&theme=radical)](https://github.com/NayyabMalik/your-repo-name)
+[![ReadMe Card]([https://github-readme-stats.vercel.app/api/pin/?username=NayyabMalik&repo=your-repo-name&theme=radical)](https://github.com/NayyabMalik/your-repo-name](https://github.com/NayyabMalik?tab=repositories))
 
-*Replace "your-repo-name" with your actual repository names*
 
----
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i> 🚀
