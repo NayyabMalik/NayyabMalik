@@ -60,8 +60,8 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 
 ## 🏆 Certifications
 
-| Certification | Issuing Organization | Date |
-|--------------|---------------------|------|
+| Certification | Issuing Organization | 
+|--------------|---------------------|
 | What is Generative AI | LinkedIn | 
 | Machine Learning with Python | Coursera | 
 | AI Mentorship Program | Nobel Global Foundation & Million Women Mentors |
