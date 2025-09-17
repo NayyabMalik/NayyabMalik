@@ -1,4 +1,4 @@
-# Hi, I'm Nayyab Malik
+# 👋 Hi, I'm Nayyab Malik
 **AI Engineer | Innovator | Problem Solver**
 
 A highly motivated AI Engineer from Rawalpindi, Pakistan, with strong technical skills and experience in creating smart AI solutions. Passionate about leveraging machine learning, deep learning, and data analysis to drive impactful innovations.
@@ -6,7 +6,7 @@ A highly motivated AI Engineer from Rawalpindi, Pakistan, with strong technical 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayyabMalik&layout=compact&theme=radical)
 
-## About Me
+## 🚀 About Me
 I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing to AI projects. Let's connect to collaborate on cutting-edge solutions!
 
 **Location:** Rawalpindi, Pakistan  
@@ -14,7 +14,7 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 **LinkedIn:** [linkedin.com/in/nayyab-malik](https://linkedin.com/in/nayyab-malik)  
 **GitHub:** [github.com/NayyabMalik](https://github.com/NayyabMalik)
 
-##  Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 ![Gen AI](https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge)
 ![Web Development](https://img.shields.io/badge/Web_Development-1E90FF?style=for-the-badge)
 
-##  Professional Experience
+## 💼 Professional Experience
 
 ### Machine Learning Intern
 **Siber Koza Community Experience Cyber & AI Innovators** | *Jul 2024 – Sep 2024*
@@ -45,7 +45,7 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 - Provided insights to support business development initiatives
 - Worked in a fast-paced innovation environment
 
-##  Education
+## 🎓 Education
 
 ### Bachelor in Artificial Intelligence
 **National University of Modern Languages, Islamabad** | *Feb 2022 – Feb 2026*
@@ -58,7 +58,7 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 - Collaborative projects with international peers
 - Exposure to global AI trends and applications
 
-##  Certifications
+## 🏆 Certifications
 
 | Certification | Issuing Organization | Date |
 |--------------|---------------------|------|
@@ -67,10 +67,10 @@ I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing t
 | AI Mentorship Program | Nobel Global Foundation & Million Women Mentors |
 | National Talent Olympiad Test | Nobel Testing & Processing Agency |
 
-##  Languages
+## 🌍 Languages
 
-- **Urdu** (Native)
-- **English** (Fluent)
+- **Urdu** 
+- **English** 
 
 
 
