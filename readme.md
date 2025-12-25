@@ -3,9 +3,6 @@
 
 A highly motivated AI Engineer from Rawalpindi, Pakistan, with strong technical skills and experience in creating smart AI solutions. Passionate about leveraging machine learning, deep learning, and data analysis to drive impactful innovations.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NayyabMalik&layout=compact&theme=radical)
-
 ## 🚀 About Me
 I'm pursuing a Bachelor's in Artificial Intelligence and actively contributing to AI projects. Let's connect to collaborate on cutting-edge solutions!
 
