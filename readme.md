@@ -83,12 +83,12 @@ class NayyabMalik:
 <tr>
 <td width="50%">
 
-### 🔗 [LangSmith Masterclass](https://github.com/NayyabMalik/LangSmith-Masterclass)
-**Agentic AI · LLM Ops · Observability**
+### 🧠 [QuizifyPDF](https://github.com/NayyabMalik/QuizifyPDF)
+**Generative AI · Document AI · LLMs**
 
-Comprehensive masterclass on LangSmith for tracing, evaluating, and monitoring LLM applications. Covers prompt versioning, dataset management, and evaluation pipelines.
+Automatically generates quizzes from any PDF document using LLMs. Upload study material and get intelligent MCQs and Q&A pairs — great for students and educators.
 
-`Python` `LangChain` `LangSmith` `LLM Ops`
+`Python` `LangChain` `LLMs` `MIT License`
 
 </td>
 <td width="50%">
@@ -203,12 +203,12 @@ End-to-end sales forecasting application with an interactive web interface using
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayyabMalik&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NayyabMalik&theme=midnight-purple&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=NayyabMalik&theme=midnight-purple&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 ---
