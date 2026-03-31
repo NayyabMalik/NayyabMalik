@@ -203,11 +203,6 @@ End-to-end sales forecasting application with an interactive web interface using
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayyabMalik&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=NayyabMalik&theme=midnight-purple&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
