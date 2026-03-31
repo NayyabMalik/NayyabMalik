@@ -9,6 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NayyabMalik&color=a78bfa&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/NayyabMalik?style=flat-square&color=a78bfa&label=Followers)](https://github.com/NayyabMalik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=flat-square&logo=linkedin)](https://linkedin.com/in/nayyab-malik)
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-AI_Engineer_Roles-6D28D9?style=flat-square)](mailto:nayyabm16@gmail.com)
 
 </div>
 
@@ -22,7 +23,8 @@ class NayyabMalik:
         self.name        = "Nayyab Malik"
         self.role        = "AI Engineer"
         self.location    = "Rawalpindi, Pakistan 🇵🇰"
-        self.education   = "BSc Artificial Intelligence @ NUML, Islamabad"
+        self.education   = "BSc Artificial Intelligence @ NUML, Islamabad (2026)"
+        self.status      = "🟢 Open to AI Engineer roles — Let's build something great!"
         self.focus       = [
             "Agentic AI & Multi-Agent Systems",
             "Large Language Models (LLMs) & RAG",
@@ -32,7 +34,7 @@ class NayyabMalik:
         ]
         self.tools       = ["LangChain", "LangSmith", "MCP Servers", "HuggingFace", "OpenCV"]
         self.currently   = "🔭 Building AI Agents & LLM-powered applications"
-        self.fun_fact    = "💡 I believe every dataset has a story waiting to be told"
+        self.fun_fact    = "💡 I once spent 3 days debugging a model — turned out the labels were flipped 🙃"
 
     def contact(self):
         return "📬 nayyabm16@gmail.com"
@@ -194,7 +196,7 @@ End-to-end sales forecasting application with an interactive web interface using
 
 <div align="center">
 
-[![View All 34 Repos](https://img.shields.io/badge/🗂️_Explore_All_34_Repositories-6D28D9?style=for-the-badge)](https://github.com/NayyabMalik?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/🗂️_Explore_All_My_Repositories-6D28D9?style=for-the-badge)](https://github.com/NayyabMalik?tab=repositories)
 
 </div>
 
@@ -204,6 +206,10 @@ End-to-end sales forecasting application with an interactive web interface using
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=NayyabMalik&theme=midnight-purple&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NayyabMalik&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayyabMalik&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top Languages"/>
 </div>
 
 ---
@@ -246,7 +252,7 @@ End-to-end sales forecasting application with an interactive web interface using
 ┌─────────────────────────────────────────────────────────────────────┐
 │  🎓  BSc Artificial Intelligence                                    │
 │      National University of Modern Languages (NUML), Islamabad      │
-│      📅 Feb 2022 – Feb 2026                                         │
+│      📅 Feb 2022 – Feb 2026  ✅ Graduated                          │
 │                                                                     │
 │  Core: ML · Deep Learning · NLP · Computer Vision · Data Science   │
 └─────────────────────────────────────────────────────────────────────┘
@@ -270,10 +276,12 @@ End-to-end sales forecasting application with an interactive web interface using
 
 | 🏆 | Certification | 🏢 Issuing Body |
 |:--:|--------------|----------------|
-| 🤖 | What is Generative AI | LinkedIn Learning |
+| 🤖 | Generative AI with Large Language Models | Coursera / DeepLearning.AI |
 | 📊 | Machine Learning with Python | Coursera |
 | 🌍 | AI Mentorship Program | Nobel Global Foundation & Million Women Mentors |
 | 🧪 | National Talent Olympiad | Nobel Testing & Processing Agency |
+
+> 💡 *Tip: Replace or supplement with any advanced certs you earn (e.g. Google, AWS, DeepLearning.AI specializations)*
 
 </div>
 
@@ -295,6 +303,7 @@ End-to-end sales forecasting application with an interactive web interface using
 <div align="center">
 
 *I'm always open to collaborating on AI research, LLM applications, and open-source ML projects.*
+*🟢 Currently open to full-time AI Engineer / ML Engineer opportunities.*
 
 <br/>
 
